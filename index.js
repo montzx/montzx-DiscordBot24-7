@@ -20,7 +20,7 @@ const {
 // ------------------------------------------------------------
 // Configuration
 // ------------------------------------------------------------
-const DISCORD_TOKEN = process.env.DISCORD_TOKEN;MTQ0ODYxNTA2ODcyMjc5MDQ4MA.Go1lZa.4zKf8Qknc9nOcsYb8Azh2L7pQ3i6RzXLT9L7YE
+const DISCORD_TOKEN = process.env.DISCORD_TOKEN;MTQ0ODYxNTA2ODcyMjc5MDQ4MA.GPnkoU.NGm6IcnYNDxlSxlAdMHjlZW6njTP75rt7Yn4-Y
 const VOICE_CHANNEL_ID = process.env.VOICE_CHANNEL_ID;1528189793131827240
 const PORT = process.env.PORT || 3000;
 
